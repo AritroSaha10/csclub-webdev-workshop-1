@@ -8,4 +8,4 @@ This is a work in progress, and I am not finished yet. I will be adding the card
 ![The design](https://cdn.dribbble.com/users/993809/screenshots/14058602/media/fb61efd292b52c82c1bc3c286103b14b.jpg)
 
 ## My Implementation (W.I.P)
-![My implementation](https://imgur.com/a/suLypxm)
+![My implementation](https://i.imgur.com/4Hrd8s8.png)
